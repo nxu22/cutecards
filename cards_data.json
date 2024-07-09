@@ -1,0 +1,416 @@
+{
+  "birthday_card": [
+    {
+      "id": 1,
+      "name": "Birthday card 1",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/1bd.png"
+    },
+    {
+      "id": 2,
+      "name": "Birthday card 2",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/2bd.png"
+    },
+    {
+      "id": 3,
+      "name": "Birthday card 3",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/3bd.png"
+    },
+    {
+      "id": 4,
+      "name": "Birthday card 4",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/4bd.png"
+    },
+    {
+      "id": 5,
+      "name": "Birthday card 5",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/5bd.png"
+    },
+    {
+      "id": 6,
+      "name": "Birthday card 6",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/6bd.png"
+    },
+    {
+      "id": 7,
+      "name": "Birthday card 7",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/7bd.png"
+    },
+    {
+      "id": 8,
+      "name": "Birthday card 8",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/8bd.png"
+    },
+    {
+      "id": 9,
+      "name": "Birthday card 9",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/9bd.png"
+    },
+    {
+      "id": 10,
+      "name": "Birthday card 10",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/10bd.png"
+    },
+    {
+      "id": 11,
+      "name": "Birthday card 11",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/11bd.png"
+    },
+    {
+      "id": 12,
+      "name": "Birthday card 12",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/12bd.png"
+    },
+    {
+      "id": 13,
+      "name": "Birthday card 13",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/13bd.png"
+    },
+    {
+      "id": 14,
+      "name": "Birthday card 14",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/14bd.png"
+    },
+    {
+      "id": 15,
+      "name": "Birthday card 15",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/15bd.png"
+    },
+    {
+      "id": 16,
+      "name": "Birthday card 16",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/16bd.png"
+    },
+    {
+      "id": 17,
+      "name": "Birthday card 17",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/17bd.png"
+    },
+    {
+      "id": 18,
+      "name": "Birthday card 18",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/18bd.png"
+    },
+    {
+      "id": 19,
+      "name": "Birthday card 19",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/19bd.png"
+    },
+    {
+      "id": 20,
+      "name": "Birthday card 20",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/20bd.png"
+    },
+    {
+      "id": 21,
+      "name": "Birthday card 21",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/21bd.png"
+    },
+    {
+      "id": 22,
+      "name": "Birthday card 22",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/22bd.png"
+    },
+    {
+      "id": 23,
+      "name": "Birthday card 23",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/23bd.png"
+    },
+    {
+      "id": 24,
+      "name": "Birthday card 24",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/24bd.png"
+    },
+    {
+      "id": 25,
+      "name": "Birthday card 25",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/25bd.png"
+    },
+    {
+      "id": 26,
+      "name": "Birthday card 26",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/26bd.png"
+    },
+    {
+      "id": 27,
+      "name": "Birthday card 27",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/27bd.png"
+    },
+    {
+      "id": 28,
+      "name": "Birthday card 28",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/28bd.png"
+    },
+    {
+      "id": 29,
+      "name": "Birthday card 29",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/29bd.png"
+    },
+    {
+      "id": 30,
+      "name": "Birthday card 30",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/30bd.png"
+    },
+    {
+      "id": 31,
+      "name": "Birthday card 31",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/31bd.png"
+    },
+    {
+      "id": 32,
+      "name": "Birthday card 32",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/birthday card/32bd.png"
+    }
+  ],
+  "christmas_card": [
+
+  ],
+  "thanksgiving_card": [
+    {
+      "id": 1,
+      "name": "Thanksgiving card 1",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/1tg.png"
+    },
+    {
+      "id": 2,
+      "name": "Thanksgiving card 2",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/2tg.png"
+    },
+    {
+      "id": 3,
+      "name": "Thanksgiving card 3",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/3tg.png"
+    },
+    {
+      "id": 4,
+      "name": "Thanksgiving card 4",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/4tg.png"
+    },
+    {
+      "id": 5,
+      "name": "Thanksgiving card 5",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/5tg.png"
+    },
+    {
+      "id": 6,
+      "name": "Thanksgiving card 6",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/6tg.png"
+    },
+    {
+      "id": 7,
+      "name": "Thanksgiving card 7",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/7tg.png"
+    },
+    {
+      "id": 8,
+      "name": "Thanksgiving card 8",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/8tg.png"
+    },
+    {
+      "id": 9,
+      "name": "Thanksgiving card 9",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/9tg.png"
+    },
+    {
+      "id": 10,
+      "name": "Thanksgiving card 10",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/10tg.png"
+    },
+    {
+      "id": 11,
+      "name": "Thanksgiving card 11",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/11tg.png"
+    },
+    {
+      "id": 12,
+      "name": "Thanksgiving card 12",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/12tg.png"
+    },
+    {
+      "id": 13,
+      "name": "Thanksgiving card 13",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/13tg.png"
+    },
+    {
+      "id": 14,
+      "name": "Thanksgiving card 14",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/14tg.png"
+    },
+    {
+      "id": 15,
+      "name": "Thanksgiving card 15",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/15tg.png"
+    },
+    {
+      "id": 16,
+      "name": "Thanksgiving card 16",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/16tg.png"
+    },
+    {
+      "id": 17,
+      "name": "Thanksgiving card 17",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/17tg.png"
+    },
+    {
+      "id": 18,
+      "name": "Thanksgiving card 18",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/18tg.png"
+    },
+    {
+      "id": 19,
+      "name": "Thanksgiving card 19",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/19tg.png"
+    },
+    {
+      "id": 20,
+      "name": "Thanksgiving card 20",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/20tg.png"
+    },
+    {
+      "id": 21,
+      "name": "Thanksgiving card 21",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/21tg.png"
+    },
+    {
+      "id": 22,
+      "name": "Thanksgiving card 22",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/22tg.png"
+    },
+    {
+      "id": 23,
+      "name": "Thanksgiving card 23",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/23tg.png"
+    },
+    {
+      "id": 24,
+      "name": "Thanksgiving card 24",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/thanksgiving/24tg.png"
+    }
+  ],
+  "valentine_card": [
+    {
+      "id": 1,
+      "name": "Valentine card 1",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/1.png"
+    },
+    {
+      "id": 2,
+      "name": "Valentine card 2",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/2.png"
+    },
+    {
+      "id": 3,
+      "name": "Valentine card 3",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/3.png"
+    },
+    {
+      "id": 4,
+      "name": "Valentine card 4",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/4.png"
+    },
+    {
+      "id": 5,
+      "name": "Valentine card 5",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/5.png"
+    },
+    {
+      "id": 6,
+      "name": "Valentine card 6",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/6.png"
+    },
+    {
+      "id": 7,
+      "name": "Valentine card 7",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/7.png"
+    },
+    {
+      "id": 8,
+      "name": "Valentine card 8",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/8.png"
+    },
+    {
+      "id": 9,
+      "name": "Valentine card 9",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/9.png"
+    },
+    {
+      "id": 10,
+      "name": "Valentine card 10",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/10.png"
+    },
+    {
+      "id": 11,
+      "name": "Valentine card 11",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/11.png"
+    },
+    {
+      "id": 12,
+      "name": "Valentine card 12",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/12.png"
+    },
+    {
+      "id": 13,
+      "name": "Valentine card 13",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/13.png"
+    },
+    {
+      "id": 14,
+      "name": "Valentine card 14",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/14.png"
+    },
+    {
+      "id": 15,
+      "name": "Valentine card 15",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/15.png"
+    },
+    {
+      "id": 16,
+      "name": "Valentine card 16",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/16.png"
+    },
+    {
+      "id": 17,
+      "name": "Valentine card 17",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/17.png"
+    },
+    {
+      "id": 18,
+      "name": "Valentine card 18",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/18.png"
+    },
+    {
+      "id": 19,
+      "name": "Valentine card 19",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/19.png"
+    },
+    {
+      "id": 20,
+      "name": "Valentine card 20",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/20.png"
+    },
+    {
+      "id": 21,
+      "name": "Valentine card 21",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/21.png"
+    },
+    {
+      "id": 22,
+      "name": "Valentine card 22",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/22.png"
+    },
+    {
+      "id": 23,
+      "name": "Valentine card 23",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/23.png"
+    },
+    {
+      "id": 24,
+      "name": "Valentine card 24",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/24.png"
+    },
+    {
+      "id": 25,
+      "name": "Valentine card 25",
+      "image": "/home/nanxu/ruby challenges/e-commerce/ecommerce_app/app/assets/images/valentine card/25.png"
+    }
+  ]
+}
